@@ -22,7 +22,9 @@ http.createServer(function (req, res) {
       list: [
         {text: 'Red', value: 'red'},
         {text: 'Green', value: 'green'},
-        {text: 'Black', value: 'black'}
+        {text: 'Black', value: 'black'},
+        {text: 'White', value: 'white'},
+        {text: 'Grey', value: 'grey'},
       ],
       operators: [
         {text: '', 'value': ''},
